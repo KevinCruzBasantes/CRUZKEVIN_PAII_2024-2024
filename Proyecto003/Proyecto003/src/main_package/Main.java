@@ -11,7 +11,8 @@ import model_package.Schedule;
 import model_package.Subjects;
 
 /**
- * author: Cruz Kevin Tema: Inversion de dependencia y conexion a base de datos
+ * author: Cruz Kevin 
+ * Tema: Inversion de dependencia y conexion a base de datos
  */
 public class Main {
 	public static void main(String[] args) throws SQLException {
