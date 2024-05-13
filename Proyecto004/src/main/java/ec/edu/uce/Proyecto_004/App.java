@@ -7,7 +7,10 @@ import org.hibernate.cfg.Configuration;
 import models.Student;
 import vista.Ventana;
 
-
+/*
+ * author: Cruz Kevin
+ * tema: Conexion a base de datos con hibernate
+ */
 public class App {
     public static void main(String[] args) {
         Configuration configuration = new Configuration();
